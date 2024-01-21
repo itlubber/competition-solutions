@@ -4,3 +4,6 @@
 [submodule "gnn/vLoong电池充电异常检测/8rd-place-solution"]
 	path = gnn/vLoong电池充电异常检测/8rd-place-solution
 	url = git@github.com:itlubber/aistudio-vloong-anomaly-detection-top11.git
+[submodule "nlp/新闻地理位置识别/1rd-place-solution"]
+	path = nlp/新闻地理位置识别/1rd-place-solution
+	url = git@github.com:itlubber/iflytek-geographical-identification-top1.git
