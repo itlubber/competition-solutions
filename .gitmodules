@@ -13,3 +13,6 @@
 [submodule "tabular/马上消金违约用户风险预测/2rd-place-solution"]
 	path = tabular/马上消金违约用户风险预测/2rd-place-solution
 	url = git@github.com:rogeroyer/AI-challenger-contest.git
+[submodule "tabular/招行卡中心消费金融场景用户购买预测/1rd-place-solution"]
+	path = tabular/招行卡中心消费金融场景用户购买预测/1rd-place-solution
+	url = git@github.com:sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast.git
