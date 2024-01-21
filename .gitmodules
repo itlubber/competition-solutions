@@ -7,3 +7,9 @@
 [submodule "nlp/新闻地理位置识别/1rd-place-solution"]
 	path = nlp/新闻地理位置识别/1rd-place-solution
 	url = git@github.com:itlubber/iflytek-geographical-identification-top1.git
+[submodule "tabular/马上消金违约用户风险预测/1rd-place-solution"]
+	path = tabular/马上消金违约用户风险预测/1rd-place-solution
+	url = git@github.com:chenkkkk/User-loan-risk-prediction.git
+[submodule "tabular/马上消金违约用户风险预测/2rd-place-solution"]
+	path = tabular/马上消金违约用户风险预测/2rd-place-solution
+	url = git@github.com:rogeroyer/AI-challenger-contest.git
