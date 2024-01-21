@@ -16,3 +16,6 @@
 [submodule "tabular/招行卡中心消费金融场景用户购买预测/1rd-place-solution"]
 	path = tabular/招行卡中心消费金融场景用户购买预测/1rd-place-solution
 	url = git@github.com:sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast.git
+[submodule "tabular/2018CCF电信存量用户智能套餐匹配/2rd-place-solution"]
+	path = tabular/2018CCF电信存量用户智能套餐匹配/2rd-place-solution
+	url = git@github.com:PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2.git
