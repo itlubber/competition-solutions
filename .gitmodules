@@ -19,3 +19,9 @@
 [submodule "tabular/2018CCF电信存量用户智能套餐匹配/2rd-place-solution"]
 	path = tabular/2018CCF电信存量用户智能套餐匹配/2rd-place-solution
 	url = git@github.com:PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2.git
+[submodule "tabular/DCIC2023兴业银行交易欺诈风险识别/13rd-place-solution"]
+	path = tabular/DCIC2023兴业银行交易欺诈风险识别/13rd-place-solution
+	url = git@github.com:ZongXR/DCIC2023-Fraud-Risk-Identification.git
+[submodule "tabular/DCIC2023兴业银行交易欺诈风险识别/8rd-place-solution"]
+	path = tabular/DCIC2023兴业银行交易欺诈风险识别/8rd-place-solution
+	url = git@github.com:Uroboros0313/DCIC2023_Fraud_Risk_Detect.git
